@@ -3,3 +3,7 @@ function aaa() {
 }
 
 aaa();
+
+function bbb() {
+	console.log('bbb')
+}
