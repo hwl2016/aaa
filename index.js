@@ -2,8 +2,6 @@ function aaa() {
 	console.log('aaa')
 }
 
-aaa();
-
 function bbb() {
 	console.log('bbb')
 }
@@ -11,3 +9,6 @@ function bbb() {
 function ccc() {
 	console.log('ccccccccccccccccccc')
 }
+
+aaa();
+bbb();
